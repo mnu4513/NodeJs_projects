@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td><h1 align="center"><a href="https://github.com/mnu4513/url_shortner.git">Url Shortner</a></h1></td>
-    <td><img src="https://raw.githubusercontent.com/Mr-Parth/Custom-URL-Shortener/master/gif/1.gif" /></td>
+    <td><img src="https://imgs.search.brave.com/EMyiaPfoVyNQAq724UiueOFJ3PtYhY49IfdlQlLoySg/rs:fit:830:530:1/g:ce/aHR0cHM6Ly9teWJp/Z3BsdW5nZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDQvdXJsLXNob3J0/ZW5lci10aGVwbHVu/Z2VkYWlseS5qcGc" /></td>
   </tr>
     <td><h1 align="center"><a href="https://github.com/mnu4513/product_management.git">Product Management</a></h1></td>
     <td><img src="https://blog.gemfind.com/hubfs/ecommerce-subway-studio-malaysia%20%281%29.gif" /></td>
